@@ -24,5 +24,5 @@ At the moment I am looking for my vocation in the field of IT
 <img align="center" width="48%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api?username=katolik163&show_icons=true&theme=merko&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="katolik163's Github Stats" />
 </a>
 <a href="https://github.com/katolik163">
-<img align="center" width="40%" height="160px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katolik163&layout=compact&theme=merko&langs_count=6" alt="katolik163's Github Stats" />
+<img align="center" width="40%" height="160px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katolik163&layout=compact&theme=merko&langs_count=4" alt="katolik163's Github Stats" />
 </a>
