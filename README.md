@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile! 👋
-At the moment I am looking for my vocation in the field of IT
+I do programming in my free time from studying. More precisely, I'm trying :)
 
 ## 💪 Skills
-#### 📚 Currently learning:
+#### 📚 Currently learning and using:
 <div style="display: flex;">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
