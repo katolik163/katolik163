@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile! 👋
-I do programming in my free time from studying. More precisely, I'm trying :)
+I'm just a guy who is interested in computers and programming.
 
 ## 💪 Skills
 #### 📚 Currently learning and using:
